@@ -5,4 +5,6 @@ The Trusted Contributors program empowers these experts to make a difference wit
 
 Trusted Contributors have the ability to help triage issues, perform code review and merge pull requests and, even make full module releases.
 
+This GitHub organisation allows Trusted Contributors to show their status on their github profile.
+
 See [the whole description](https://puppet.com/ecosystem/trusted-contributors/) or [apply now](https://pup.pt/tc-apply).
